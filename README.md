@@ -1,2 +1,2 @@
 # GITHUB-PROFILE 💗 using html, css, javascript.
-GITHUB PROFILE
+GitHub is a place where people can find out more about you.
